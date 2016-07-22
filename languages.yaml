@@ -10,7 +10,7 @@ pl:
       COOKIE: 'Nasza strona wykorzystuje ciasteczka by zapewnić wam najlepsze wrażenia. Domyślnie zakładamy, że wyrażasz zgodę na ich użycie. Jednak w każdej chwili możesz zmienić swoje ustawienia/preferencje zgodnie z używaną przeglądarką.'
       LINK: 'Dowiedz się więcej'
       DIMISS: 'Zamknij'
-se:
+sv:
   PLUGINS:
     COOKIES_NOTICE:
       COOKIE: 'Vi använder kakor för att se till att ge dig den bästa upplevelsen på vår websida. Vi antar att du går med på detta. Du kan hur som helst ändra dina inställningar i din browswer.'

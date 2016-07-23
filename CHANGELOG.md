@@ -1,5 +1,11 @@
+# v1.0.2
+## 07/23/2016
+
+1. [](#bugfix)
+    * Fix problem with installation by grav-admin
+
 # v1.0.1
-## 05/06/2016
+## 07/22/2016
 
 1. [](#bugfix)
     * Fix language code for Sweden 

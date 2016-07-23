@@ -1,5 +1,5 @@
 name: CookiesNotice
-version: 1.0.0
+version: 1.0.2
 description: 'Grav plugin displays small banner on the botton or top of screen with informations about EU Cookie Directive.'
 icon: object-group 
 author:

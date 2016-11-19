@@ -36,9 +36,9 @@ form:
           type: bool
         help: 'The jQuery Cookie PLugin v1.4.1 has to be loaded. If an error occurs, load it manually.'
 
-      possition:
+      position:
         type: select
-        label: Possition
+        label: Position
         size: small
         default: top
         options:

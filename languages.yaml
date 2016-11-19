@@ -46,3 +46,9 @@ fr:
       COOKIE: 'En poursuivant la navigation sur notre site web, vous consentez à ce que nous utilisions des cookies afin de vous proposer une meilleure expérience. Toutefois, vous pouvez changer vos préférences dans les options de votre navigateur.'
       LINK: 'En savoir plus'
       DIMISS: 'Fermer'
+fi:
+  PLUGINS:
+    COOKIES_NOTICE:
+      COOKIE: 'Käytämme evästeitä antaaksemme parhaan kokemuksen verkkosivuillamme. Oletamme että hyväksyt tämän. Mikäli et, voit vaihtaa asetusta selaimesi asetuksista milloin vain.'
+      LINK: 'Lue lisää'
+      DIMISS: 'Sulje'

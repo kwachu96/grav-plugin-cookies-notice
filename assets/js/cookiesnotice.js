@@ -1,6 +1,6 @@
 (function($){
     $.showCookiesNotice = function(cookieText, linkHref, linkText, dismissText, cookieStyle) {
-        if ($.cookie('cookienotice')!='acctepted') {
+        if ($.cookie('cookienotice')!='accepted') {
             var cookieHtml = '<div class="cookienotice">';
                 cookieHtml += cookieText;
                 cookieHtml += '<div class="cookiewrap"></div><a href="'+linkHref+'">'+linkText+'</a>';
@@ -22,6 +22,6 @@
     };
     $.closeCookieNotice = function() {
         $("div.cookienotice").remove();
-        $.cookie('cookienotice', 'acctepted', { expires: 365, path: '/' });
+        $.cookie('cookienotice', 'accepted', { expires: 365, path: '/' });
     };
 })(jQuery);

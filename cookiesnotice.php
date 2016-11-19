@@ -50,7 +50,7 @@ class CookiesNoticePlugin extends Plugin
 
         $twig = $this->grav['twig'];
         $twig->twig_vars['cookiesnotice_markup'] = $twig->twig->render('partials/cookiesnotice.html.twig', array(
-            'cookiesnotice_possition' => strtolower($this->config->get('plugins.cookiesnotice.possition')),
+            'cookiesnotice_position' => strtolower($this->config->get('plugins.cookiesnotice.position')),
             'cookiesnotice_url' => $this->config->get('plugins.cookiesnotice.url')
         ));
     }

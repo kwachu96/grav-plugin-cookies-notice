@@ -2,6 +2,7 @@
 ## 11/19/2016
 1. [](#new)
    * Adding Finnish translation
+   
 # v1.0.2
 ## 07/23/2016
 

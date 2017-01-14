@@ -12,9 +12,9 @@ To run the script on your site, just call the variable `{{ cookiesnotice_markup 
 
 # Features
 
-* On/Off loading jQuery Cookie plugin for some reasons
+* On/Off loading jQuery Cookie plugin for some reasons.
 * Ability to load your custom CSS files.
-* Multi Language support (currently translations are in English, Polish, Swedish, German, Danish, Croatian, Dutch, French) 
+* Multi Language support (currently translations are in English, Polish, Swedish, German, Danish, Croatian, Dutch, French, Spanish).
 
 # Configuration
 

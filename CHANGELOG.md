@@ -1,3 +1,7 @@
+# v1.0.4
+## 01/14/2017
+1. [](#new)
+   * Adding Spanish translation
 # v1.0.3
 ## 11/19/2016
 1. [](#new)

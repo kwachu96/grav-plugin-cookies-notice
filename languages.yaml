@@ -52,3 +52,9 @@ fi:
       COOKIE: 'Käytämme evästeitä antaaksemme parhaan kokemuksen verkkosivuillamme. Oletamme että hyväksyt tämän. Mikäli et, voit vaihtaa asetusta selaimesi asetuksista milloin vain.'
       LINK: 'Lue lisää'
       DIMISS: 'Sulje'
+es:
+  PLUGINS:
+    COOKIES_NOTICE:
+      COOKIE: 'Utilizamos cookies para asegurarnos de que le ofrecemos la mejor experiencia en nuestro sitio web. Asumiremos que usted acepta hacer esto. Sin embargo, puede cambiar su configuración en cualquier momento en su navegador.'
+      LINK: 'Leer más'
+DIMISS: 'Cerrar

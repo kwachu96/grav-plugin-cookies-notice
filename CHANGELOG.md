@@ -1,13 +1,23 @@
+# v1.0.5
+
+1. [](#bugfix)
+   * fixed language.yaml
+   * fixed changelog.md
+   
 # v1.0.4
 ## 01/14/2017
+
 1. [](#new)
    * Adding Spanish translation
+   
 # v1.0.3
 ## 11/19/2016
+
 1. [](#new)
    * Adding Finnish translation
 2. [](#bugfix)
    * Fix typos
+   
 # v1.0.2
 ## 07/23/2016
 

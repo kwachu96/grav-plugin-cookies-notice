@@ -4,6 +4,12 @@ en:
       COOKIE: 'We use cookies to ensure that we give you the best experience on our website. We will assume that you agree for us to do this. However, you can change your settings at any time according with your browser.'
       LINK: 'Learn more'
       DIMISS: 'Close'
+ro:
+  PLUGINS:
+    COOKIES_NOTICE:
+      COOKIE: 'Folosim cookies pentru a vă asigura o experiență cît mai buna în utilizarea site-ului nostru. Vom presupune accesptul Dvs pentru a face acest lucru prin închiderea dialogului. Puteți modifica aceste setări în orice moment din browser-ul Dvs.'
+      LINK: 'Mai multe detalii'
+      DIMISS: 'Închide'
 pl:
   PLUGINS:
     COOKIES_NOTICE:

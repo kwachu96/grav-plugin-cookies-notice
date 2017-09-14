@@ -1,5 +1,13 @@
-# v1.0.5
+# v1.0.6
+## 09/14/2017
 
+1. [](#new)
+   * Adding Romanian translation
+2. [](#bugfix)
+   * fixed changelog.md
+
+# v1.0.5
+## 01/18/2017
 1. [](#bugfix)
    * fixed language.yaml
    * fixed changelog.md
